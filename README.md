@@ -5,9 +5,6 @@ A modern **real-time sales dashboard** built with **HTML, CSS, JavaScript, and C
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![HTML](https://img.shields.io/badge/HTML5-orange)
 ![CSS](https://img.shields.io/badge/CSS3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Chart.js](https://img.shields.io/badge/Chart.js-4.x-red)
-
 ---
 
 ## 📌 Overview
