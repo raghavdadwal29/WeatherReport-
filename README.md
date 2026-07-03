@@ -2,7 +2,6 @@
 
 A modern **real-time sales dashboard** built with **HTML, CSS, JavaScript, and Chart.js**. It simulates a live e-commerce analytics system by generating synthetic sales data and updating visualizations every few seconds.
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![HTML](https://img.shields.io/badge/HTML5-orange)
 ![CSS](https://img.shields.io/badge/CSS3-blue)
 ---
